@@ -1,6 +1,8 @@
 # About Me
 Enthusiasm and passion for new technologies motivate me not to stop learning every day I am currently an inactive teacher at the University of San Buenaventura, teaching design courses of web interfaces, web development, programming fundamentals and video games. Aimed at growing as a Web Developer.
 
+![Jose Toro's GitHub stats](https://github-readme-stats.vercel.app/api?username=js-toro\&rank_icon=github&show_icons=true&theme=ambient_gradient&hide_border=true&hide_title=true&hide=issues&include_all_commits=true&card_width=500)
+
 ### Programming Languages
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
@@ -22,6 +24,8 @@ Enthusiasm and passion for new technologies motivate me not to stop learning eve
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=js-toro&layout=compact&theme=ambient_gradient&langs_count=4&card_width=500)
 
 # Live Demos
 
