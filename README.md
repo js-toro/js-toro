@@ -30,9 +30,14 @@ Enthusiasm and passion for new technologies motivate me not to stop learning eve
 # Live Demos
 
 ### Beatsby Dre - Landing Page
-TypeScript | Styled Componentes | GSAP | Vite
+• TypeScript • Styled Componentes • GSAP • Vite •
 <br>
 https://beatsby-dre.netlify.app
+
+### Alex Toro Arquitectos
+• TypeScript • Styled Componentes • GSAP • Vite •
+<br>
+https://alextoroarquitectos.netlify.app
 
 <!-- 
 ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)
